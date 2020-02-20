@@ -3,8 +3,7 @@ import axios from "axios"
 export const sendEmail = async email => {
   try {
     const { from, to, subject, text } = email
-    // const BACKEND_URL = "https://www.leadmaster.com.br"
-    const BACKEND_URL = "http://localhost:2000"
+    const BACKEND_URL = "https://www.leadmaster.com.br"
     const res = await axios.post(BACKEND_URL + "/api/mail/send/", {
       from,
       to,
