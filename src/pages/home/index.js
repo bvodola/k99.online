@@ -44,6 +44,9 @@ const Home = () => {
           Olá, nós somos a K99.online, uma agência especializada na criação de
           apps e sistemas, tanto para Web quando para Celular.
         </H1>
+        <Row style={{ justifyContent: "center" }}>
+          <ProjectImg src="/img/tech-logos.png" alt="" />
+        </Row>
         <Button onClick={() => scrollTo("#projects")}>
           Confira nossos projetos
         </Button>
