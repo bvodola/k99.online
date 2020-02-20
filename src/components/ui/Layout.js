@@ -61,7 +61,7 @@ const Layout = ({ children }) => (
     <SEO title="Home" />
     <Nav>
       <Link to="/">
-        <h1>Brunno Vodola</h1>
+        <h1>K99.online</h1>
       </Link>
 
       <ul>
@@ -69,10 +69,10 @@ const Layout = ({ children }) => (
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/#projects">Projects</Link>
+          <Link to="/#projects">Projetos</Link>
         </li>
         <li>
-          <Link to="/#contact">Contact</Link>
+          <Link to="/#contact">Contato</Link>
         </li>
       </ul>
     </Nav>
@@ -80,9 +80,9 @@ const Layout = ({ children }) => (
     {children}
     <ContactSection />
     <Section>
-      &copy; {new Date().getFullYear()} - Created by Brunno Vodola
+      &copy; {new Date().getFullYear()} - Criado por K99.online
       <br />
-      Icons made by{" "}
+      Ícones criados por{" "}
       <a
         href="https://www.flaticon.com/authors/pixel-perfect"
         title="Pixel perfect"

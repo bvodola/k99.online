@@ -13,20 +13,20 @@ export default () => (
         </Col>
         <Col>
           <P>
-            This is an ongoing project that aims to create a WhatsApp Marketing
-            system that allows for message templates, message sequences, bots
-            and many more features.
+            Trata-se de uma solução voltada para o Marketing para WhatsApp,
+            assim como sistema de envio automático de mensagens e bot de
+            atendimento ao cliente.
           </P>
 
           <P>
             <mark>
-              This will allow companies that use WhatsApp for marketing to
-              leverage the platform and accomplish significant increase in
-              performance and, consequently, sales.
+              Este projeto permitirá a empresas que usam o WhatsApp para
+              marketing possam alavancar significamente seus esforços e,
+              consequentemente, transformá-los em mais vendas.
             </mark>
           </P>
           <P>
-            <b>This is an ongoing project</b>
+            <b>Este é um projeto em andamento</b>
           </P>
         </Col>
       </Row>

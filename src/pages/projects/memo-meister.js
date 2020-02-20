@@ -13,26 +13,24 @@ export default () => (
         </Col>
         <Col>
           <P>
-            This was a one-year contract to be part of the team that was
-            responsible for the maintenance, bug fixing, new features and
-            performance improvement of a native app on both iOS and Android
-            platfortms.
+            Este projeto consistiu em um contrato de 1 ano para manutenção,
+            criação de novas telas e melhorias de performance no aplicativo
+            nativo da empresa, nas plataformas iOS e Android.
           </P>
           <P>
-            Among the many tasks I was assigned, the most impactful one was
-            actually{" "}
+            Dentre as várias tarefas realizadas, a mais impactante foi{" "}
             <mark>
-              improving the main app screens general performance a measureable
-              200%
+              ter melhorado a performance das principais telas do aplicativo em
+              200% mensuráveis
             </mark>
             .
           </P>
           <P>
-            You can download this App on both AppStore and GooglePlay: lookup
-            for <b>MemoMeister</b>
+            Você pode baixar esse App tanto na Play Store quanto na App Store.
+            Procure por: <b>MemoMeister</b>
           </P>
           <P>
-            <b>This was a contract that lasted for 1 year</b>
+            <b>Este projeto foi um contrato que teve 1 ano de duração.</b>
           </P>
         </Col>
       </Row>

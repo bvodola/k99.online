@@ -4,12 +4,12 @@ import { H2, H3 } from "src/components/text"
 
 const Contact = () => (
   <Section id="contact">
-    <H2>Get in Touch or Hire Me</H2>
-    <H3>brunno@vodola.com.br</H3>
+    <H2>Entre em contato ou Faça um Orçamento</H2>
+    <H3>contato@k99.online</H3>
     <Row paddedSm>
       <WhatsappLink
-        displayPhone="+55 (11) 99966-8246"
-        linkPhone="5511999668246"
+        displayPhone="+55 (11) 94072-8896"
+        linkPhone="5511940728896"
       />
     </Row>
   </Section>

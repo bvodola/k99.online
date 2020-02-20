@@ -13,27 +13,30 @@ export default () => (
         </Col>
         <Col>
           <P>
-            This is a CRM and document generation system tailor-made for law
-            firms.
+            Este é um CRM e gerador de documentos criado especificamente para
+            escritórios de advocacia
           </P>
           <P>
-            Among this systems benefits, the most impactful one was actually{" "}
+            Dentre seus diversos benefícios, o maior de todos foi{" "}
             <mark>
-              plunging the time needed to fill-up and print a client's set of
-              legal forms from about 10 minutes to about 30 seconds.
+              diminuir o tempo necessário para preencher os dados de um cliente
+              e gerar seus formulários processuais de 10 minutos para em torno
+              de 30 segundos.
             </mark>
             .
           </P>
-          <P>This is a closed project for now, so it can't be accessed</P>
           <P>
-            <b>This Project was delivered in 1 month</b>
+            Este é um projeto fechado por enqauanto, e não pode ser acessado.
+          </P>
+          <P>
+            <b>Este projeto foi entregue em 1 mês.</b>
           </P>
         </Col>
       </Row>
     </Section>
 
     <Section variant="secondary">
-      <H3>App Screens</H3>
+      <H3>Telas do Sistema</H3>
       <br />
       <ProjectImages project_name="lead-master" images={["app1", "app2"]} />
     </Section>

@@ -18,43 +18,38 @@ export default () => (
               href="https://fgmdasorte.com.br/"
               rel="noopener noreferrer"
             >
-              Project Link: Landing Page (in Portuguese)
+              Link do projeto (Landing Page)
             </a>
           </P>
           <P>
-            This project, issued by FGM, a world reference in odontological
-            area, was aimed to create a prize drawing system and campaign based
-            on monthly draws.
+            Esse projeto, criado em parceria com a FGM, referência mundial da
+            indústria de equipamentos para dentistas, é um sistema de promoção e
+            sorteios mensais para os clientes da empresa.
           </P>
           <P>
-            The users, after buying odontological equipment, visits{" "}
+            Os usuários, depois de comprarem equipamentos odontológicos, acessam{" "}
             <a
               target="_blank"
               href="https://fgmdasorte.com.br/"
               rel="noopener noreferrer"
             >
-              the campaign landing page
+              a página principal da campanha
             </a>{" "}
-            that would explain all the mechanincs of the promotion.
+            que explica toda a mecânica da promoção.
           </P>
           <P>
-            Finally, on that same page, he would proceed to register his
-            purchase, by inputing some data and also uploading copies of his
-            receipts.
-          </P>
-          <P>
-            <b>Obs: This is an ongoing project</b>
+            <b>Obs: Este projeto ainda está em andamento</b>
           </P>
         </Col>
       </Row>
     </Section>
 
     <Section variant="secondary">
-      <H3>Landing Page Screens</H3>
+      <H3>Telas da página de promoção</H3>
       <br />
       <ProjectImages project_name="fgm" images={["proj-1", "proj-2"]} />
       <br />
-      <H3> Receipts Admin Screens</H3>
+      <H3> Telas do painel de controle</H3>
       <br />
       <ProjectImages project_name="fgm" images={["painel-1", "painel-2"]} />
     </Section>
