@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Brunno Vodola`,
-    description: `Looking for an experienced Web and Mobile app developer? Specialized in React and React Native?`,
+    title: `K99.online`,
+    description: `Agência especializada em criação de apps WEB and MOBILE`,
     author: `@bvodola`,
   },
   plugins: [
