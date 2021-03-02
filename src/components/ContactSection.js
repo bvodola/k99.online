@@ -11,15 +11,10 @@ const Contact = () => (
         <ContactForm />
       </Col>
     </Row>
-    <Row padded>
-      <Col>
-        <H3>contato@k99.online</H3>
-      </Col>
-    </Row>
     <Row paddedSm>
       <WhatsappLink
-        displayPhone="+55 (11) 94072-8896"
-        linkPhone="5511940728896"
+        displayPhone="+55 (11) 99966-8246"
+        linkPhone="5511999668246"
       />
     </Row>
   </Section>

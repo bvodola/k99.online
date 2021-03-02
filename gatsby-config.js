@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `K99.online`,
+    title: `MNX.digital`,
     description: `Agência especializada em criação de apps WEB and MOBILE`,
     author: `@bvodola`,
   },

@@ -61,7 +61,7 @@ const Layout = ({ children }) => (
     <SEO title="Home" />
     <Nav>
       <Link to="/">
-        <h1>K99.online</h1>
+        <h1>MNX.digital</h1>
       </Link>
 
       <ul>
@@ -80,7 +80,7 @@ const Layout = ({ children }) => (
     {children}
     <ContactSection />
     <Section>
-      &copy; {new Date().getFullYear()} - Criado por K99.online
+      &copy; {new Date().getFullYear()} - Criado por MNX.digital
       <br />
       Ícones criados por{" "}
       <a
