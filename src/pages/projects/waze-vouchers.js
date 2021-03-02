@@ -13,15 +13,6 @@ export default () => (
         </Col>
         <Col>
           <P>
-            <a
-              target="_blank"
-              href="http://waze-voucher.herokuapp.com/"
-              rel="noopener noreferrer"
-            >
-              Link do projeto
-            </a>
-          </P>
-          <P>
             Este projeto, liderado pelo Waze CarPool, teve como objetivo criar
             um sistema de recompensas baseado em caronas dadas pelos usuários do
             App Waze CarPool.
@@ -31,15 +22,8 @@ export default () => (
             através do seu app Waze CarPool
           </P>
           <P>
-            Com o voucher em mãos, ele deveria acessar a{" "}
-            <a
-              target="_blank"
-              href="http://seguetodavidajunto.com.br/"
-              rel="noopener noreferrer"
-            >
-              página da promoção
-            </a>{" "}
-            que explica todas as mecânicas da promoção.
+            Com o voucher em mãos, ele deveria acessar a página da promoção que
+            explica todas as mecânicas da promoção.
           </P>
           <P>
             Finalmente, ele acessaria o sistema de vouchers e trocaria seu

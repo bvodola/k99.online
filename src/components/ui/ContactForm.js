@@ -46,8 +46,8 @@ const ContactForm = () => {
             for (let email of data.to) {
               await sendEmail({
                 to: email,
-                from: "leads@meuprocesso.com.br",
-                subject: "Lead K99",
+                from: "leads@mnx.digital",
+                subject: "Lead MNX",
                 text: `Nome: ${data.name}, Telefone: ${data.phone}`,
               })
             }

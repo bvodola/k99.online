@@ -25,9 +25,7 @@ export default () => (
             </mark>
             .
           </P>
-          <P>
-            Este é um projeto fechado por enqauanto, e não pode ser acessado.
-          </P>
+          <P>Este é um projeto fechado e não pode ser acessado publicamente.</P>
           <P>
             <b>Este projeto foi entregue em 1 mês.</b>
           </P>

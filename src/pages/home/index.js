@@ -41,8 +41,8 @@ const Home = () => {
       <Section id="presentation" variant="secondary">
         <H2 secondary>Então, sua busca chegou ao fim! =D</H2>
         <H1 style={{ textAlign: "center" }}>
-          Olá, nós somos a , uma agência especializada na criação de apps e
-          sistemas, tanto para Web quando para Celular.
+          Olá, nós somos a MNX.digital, uma agência especializada na criação de
+          apps e sistemas, tanto para Web quando para Celular.
         </H1>
         <Row style={{ justifyContent: "center" }}>
           <ProjectImg src="/img/tech-logos.png" alt="" />
